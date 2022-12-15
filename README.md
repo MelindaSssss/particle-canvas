@@ -1,7 +1,7 @@
 # particle-canvas
 
 仿明日方舟官网 Logo 粒子动画
-
+[明日方舟](https://ak.hypergryph.com/#)
 技术栈：react+canvas+ts
 
 主要使用三个类：Particle、LogoImg、ParticleCanvas
